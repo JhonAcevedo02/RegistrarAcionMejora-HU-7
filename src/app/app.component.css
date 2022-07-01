@@ -1,0 +1,42 @@
+@import url('http://fonts.cdnfonts.com/css/handel-gothic-d');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+h1 {
+    font-family: 'Montserrat',sans-serif;
+    color: #C2382F;
+} 
+.accion{
+    font-family: 'Montserrat',sans-serif;
+    
+}
+.fechaA{
+    font-family: 'Montserrat',sans-serif;
+    color: #C2382F;
+    margin-bottom: 0rem;
+    
+}
+.lider{
+    font-family: 'Montserrat',sans-serif;
+    color: #C2382F;
+}
+.btnG{
+    background-color: #C2382F;
+    font-family: 'Montserrat',sans-serif;
+    color: white;
+}
+.btnC{
+    background-color:#f0f8ff ;
+    font-family: 'Montserrat',sans-serif;
+    color: black;
+}
+.option{
+    color: black;
+    font-family: 'Montserrat',sans-serif;
+}
+.fechaL{
+    font-family: 'Montserrat',sans-serif;
+}
+.observaciones{
+    font-family: 'Montserrat',sans-serif;
+}
+
