@@ -52,7 +52,7 @@
       </div>
       <div class="d-flex justify-content-center mt-4 mb-2">
         <button  class="d-inline-block mx-4 btnC" mat-raised-button>Cancelar</button>
-        <button class="btnG" mat-raised-button>Guardar</button>
+        <button [disabled]="accionMejoraForm.invalid" class="btnG" mat-raised-button>Guardar</button>
       </div>
     </form>
   </div>
